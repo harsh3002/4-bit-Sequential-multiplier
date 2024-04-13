@@ -1,0 +1,29 @@
+{C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/Synchronous FIFO/seq_mul_top_module.v} {1 {vlog -work work -stats=none {C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/Synchronous FIFO/seq_mul_top_module.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module top_module
+
+Top level modules:
+	top_module
+
+} {} {}} {C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/Synchronous FIFO/multiplier_datapath.v} {1 {vlog -work work -stats=none {C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/Synchronous FIFO/multiplier_datapath.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mul_datapath
+
+Top level modules:
+	mul_datapath
+
+} {} {}} {C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/Synchronous FIFO/seq_mul_controller.v} {1 {vlog -work work -stats=none {C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/Synchronous FIFO/seq_mul_controller.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mul_controller
+
+Top level modules:
+	mul_controller
+
+} {} {}} {C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/Synchronous FIFO/mul_tb.v} {1 {vlog -work work -stats=none {C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/Synchronous FIFO/mul_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mul_tb
+
+Top level modules:
+	mul_tb
+
+} {} {}}

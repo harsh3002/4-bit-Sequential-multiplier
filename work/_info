@@ -1,0 +1,151 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/recirculation mux synchronizer
+vfifo_tb
+DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+!s110 1711729141
+!i10b 1
+!s100 Q^?IA2emm[gVoFU:_2[eZ2
+Z0 !s11b Dg1SIo80bB@j0V0VzS_@n1
+ImcD>4dhKkU^>_W<Mo4afo3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+S1
+Z2 dC:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/Synchronous FIFO
+w1711729137
+8C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/Synchronous FIFO/fifo_tb.v
+FC:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/Synchronous FIFO/fifo_tb.v
+!i122 31
+L0 7 72
+Z3 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1711729141.000000
+!s107 C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/Synchronous FIFO/fifo_tb.v|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/Synchronous FIFO/fifo_tb.v|
+!i113 1
+o-work work -sv
+Z4 tCvgOpt 0
+vmul_controller
+Z5 !s110 1712986743
+!i10b 1
+!s100 H=VY0c^cXKbfkk4[OTRbH3
+R0
+In=I>`:Af=K_;W4fV`j`Vl1
+R1
+R2
+w1712986640
+8C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/Synchronous FIFO/seq_mul_controller.v
+FC:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/Synchronous FIFO/seq_mul_controller.v
+!i122 99
+L0 4 37
+R3
+r1
+!s85 0
+31
+Z6 !s108 1712986743.000000
+!s107 C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/Synchronous FIFO/seq_mul_controller.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/Synchronous FIFO/seq_mul_controller.v|
+!i113 1
+Z7 o-work work
+R4
+vmul_datapath
+R5
+!i10b 1
+!s100 Z0X:PLK?MO1dz`?VGYzgi0
+R0
+I7f2IRPY[NF`jbbM6VY1]=3
+R1
+R2
+w1712985573
+8C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/Synchronous FIFO/multiplier_datapath.v
+FC:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/Synchronous FIFO/multiplier_datapath.v
+!i122 98
+L0 4 40
+R3
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/Synchronous FIFO/multiplier_datapath.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/Synchronous FIFO/multiplier_datapath.v|
+!i113 1
+R7
+R4
+vmul_tb
+!s110 1712986744
+!i10b 1
+!s100 G=7XPk9BWUWKP7QEjlA9g2
+R0
+IYk;HAHfQVilUB6UgCP:;c0
+R1
+R2
+w1712986739
+8C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/Synchronous FIFO/mul_tb.v
+FC:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/Synchronous FIFO/mul_tb.v
+!i122 101
+L0 4 31
+R3
+r1
+!s85 0
+31
+!s108 1712986744.000000
+!s107 C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/Synchronous FIFO/mul_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/Synchronous FIFO/mul_tb.v|
+!i113 1
+R7
+R4
+vsynchronous_fifo
+!s110 1711729019
+!i10b 1
+!s100 T0khc_m7<2A]:4[eo9koM2
+R0
+I2XS=09QXMQiIaO>RQ2H4j0
+R1
+R2
+w1711729015
+8C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/Synchronous FIFO/synchronous_fifo.v
+FC:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/Synchronous FIFO/synchronous_fifo.v
+!i122 29
+L0 5 120
+R3
+r1
+!s85 0
+31
+!s108 1711729019.000000
+!s107 C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/Synchronous FIFO/synchronous_fifo.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/Synchronous FIFO/synchronous_fifo.v|
+!i113 1
+R7
+R4
+vtop_module
+R5
+!i10b 1
+!s100 872neHo1jcV:jkk9C^9]>1
+R0
+If@neFV9`^0:THTHzCGJEZ0
+R1
+R2
+w1712972676
+8C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/Synchronous FIFO/seq_mul_top_module.v
+FC:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/Synchronous FIFO/seq_mul_top_module.v
+!i122 100
+L0 4 39
+R3
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/Synchronous FIFO/seq_mul_top_module.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/Synchronous FIFO/seq_mul_top_module.v|
+!i113 1
+R7
+R4
